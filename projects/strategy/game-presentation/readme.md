@@ -39,7 +39,7 @@ should it be?
 ## References
 ### 2015: Recycle Rush
 * [Reveal Video](https://youtu.be/W6UYFKNGHJ8?si=7HMWLFq2E3yd6A72)
-* [Game Manual](GameManual20250407.pdf)
+* [Game Manual](GameManual20150407.pdf)
 * [Matches](https://www.thebluealliance.com/team/1318/2015)
 
 ### 2016: Stronghold
@@ -49,22 +49,22 @@ should it be?
 
 ### 2017: Steamworks
 * [Reveal Video](https://youtu.be/EMiNmJW7enI?si=n_BLDkiG57iAG0hZ)
-* [Game Manual](2017FRCGameManual.pdf)
+* [Game Manual](2017FRCGameSeasonManual.pdf)
 * [Matches](https://www.thebluealliance.com/team/1318/2017)
 
 ### 2018: Power Up
 * [Reveal Video](https://youtu.be/HZbdwYiCY74?si=56yU6KAndQgGmNkq)
-* [Game Manual](2018FRCGameManual.pdf)
+* [Game Manual](2018FRCGameSeasonManual.pdf)
 * [Matches](https://www.thebluealliance.com/team/1318/2018)
 
 ### 2019: Deep Space
 * [Reveal Video](https://youtu.be/Mew6G_og-PI?si=qp4sdbmjat_lFnRP)
-* [Game Manual](2019FRCGameManual.pdf)
+* [Game Manual](2019FRCGameSeasonManual.pdf)
 * [Matches](https://www.thebluealliance.com/team/1318/2019)
 
 ### 2020: Infinite Recharge
 * [Reveal Video](https://youtu.be/gmiYWTmFRVE?si=jL6mD291Gbg6DwBL)
-* [Game Manual](2020FRCGameManual.pdf)
+* [Game Manual](2020FRCGameSeasonManual.pdf)
 * [Matches](https://www.thebluealliance.com/team/1318/2020)
 
 ### 2022: Rapid React
