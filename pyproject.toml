@@ -1,0 +1,14 @@
+[project]
+name = "analytics2025"
+version = "0.1.0"
+description = "IRS Analytics Training Materials"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.4.7",
+    "marimo>=0.15.2",
+    "numpy>=2.3.2",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "polars>=1.33.0",
+]
