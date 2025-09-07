@@ -5,8 +5,8 @@ Competition team located at Issaquah High School in Issaquah, WA.
 
 ## FRC Strategy
 
-[View training material for FRC strategy](projects\strategy\game-presentation\readme.md)
+[View training material for FRC strategy](projects/strategy/game-presentation/readme.md)
 
 ## JavaScript
 
-[View Javascript Training Materials](projects\javascript\README.md)
+[View Javascript Training Materials](projects/javascript/README.md)
